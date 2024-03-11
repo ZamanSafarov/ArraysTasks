@@ -1,0 +1,14 @@
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\bin\Debug\net8.0\Tasks.exe
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\bin\Debug\net8.0\Tasks.deps.json
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\bin\Debug\net8.0\Tasks.dll
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\bin\Debug\net8.0\Tasks.pdb
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.dll
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.pdb
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+D:\Coding\Aztu-Codeacademy\Arrays\Tasks\obj\Debug\net8.0\ref\Tasks.dll
